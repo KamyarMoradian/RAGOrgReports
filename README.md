@@ -76,7 +76,7 @@ The system evaluates output quality using cosine similarity between query embedd
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/KamyarMoradian/RAGOrgReports/blob/main/LICENSE).
 
 ### References
 
